@@ -43,7 +43,7 @@ def button_click_1():
 
 
 def button_click_2():
-    print(["python", "test.py"])
+    subprocess.run(["python", "test.py"])
 
 
 def button_click_3():

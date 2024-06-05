@@ -13,4 +13,5 @@ python-dateutil
 six
 tk
 SpeechRecognition
-pillow
+pillow==9.5
+pygame
